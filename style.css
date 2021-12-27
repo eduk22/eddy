@@ -1,0 +1,31 @@
+.main{
+    font-size: 30px;
+    position: relative;
+
+}
+.name{
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    color: white;
+}
+.name h1{
+    background-color: black;
+    color: white;
+    top: 20%;
+}
+.menu{
+    top: 1%;
+    left: 5%;
+    float: left;
+    position:absolute;
+   
+
+}
+.menu li{
+    float: left;
+    color: white ;
+    margin-left: 60px;
+    background-color: black;
+    font-size: 50px;
+}
